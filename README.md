@@ -1,5 +1,5 @@
 <h1>Totem de Auto-Atendimento Burger King</h1>
-<img src="https://i.imgur.com/4JK0Gmt.png">
+<center><img src="https://i.imgur.com/4JK0Gmt.png"></center>
 
 <h3>Funcionalidades principais:</h3>
 <ul>
